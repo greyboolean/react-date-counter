@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# ignore unused files
+/src/Error.js
+/src/Header.js
+/src/Loader.js
+/src/questions.json
